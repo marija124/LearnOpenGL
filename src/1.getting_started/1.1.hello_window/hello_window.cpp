@@ -14,7 +14,7 @@ int main()
 {
     // Moj prvi komentar!
     // Drugi komentar!
-    // Treci komentar!
+    // Treci komentar! 2
     // glfw: initialize and configure
     // ------------------------------
     glfwInit();
